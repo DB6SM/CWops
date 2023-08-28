@@ -1,3 +1,5 @@
 # CWops Deutsch
 
 Die hier zur Verfügung gestellten Unterlagen dienen als Grundlage für die Teilnahme am deutschen CWops-Kurs.
+
+Um die Unterlagen herunterzuladen > oben links auf Code klicken, dann als "Download ZIP".
