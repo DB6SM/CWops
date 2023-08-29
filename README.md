@@ -6,20 +6,20 @@ Um die Unterlagen herunterzuladen > oben links auf Code klicken, dann als "Downl
 
 ## Links
 
-Die aktuelle derzeite deutshe Übersetzung ist hier zu finden
+Die aktuelle derzeite deutshe Übersetzung ist hier zu finden  
 (https://cwops.org/wp-content/uploads/2023/08/Practice-Instructions-and-Homework-Assignments-Beginner-CW-Rev-4.0.1-de.pdf)
 
-Englische Version
+Englische Version  
 (https://cwops.org/wp-content/uploads/2023/08/Practice-Instructions-and-Homework-Assignments-Beginner-CW-Rev-4.1.pdf)
 
 Alle Dokumente  
-[Link](https://cwops.org/cw-academy/cw-academy-student-resources/)
+https://cwops.org/cw-academy/cw-academy-student-resources/
 
 Morse Code Trainer  
-[Link](https://morsecode.world/international/trainer/trainer.html)
+https://morsecode.world/international/trainer/trainer.html
 
 ICR Trainer (die Einstellungen sind im Ordner ICR zu finden)  
-[Link](https://morsecode.world/international/trainer/character.html)
+(https://morsecode.world/international/trainer/character.html
 
 Word List Trainer  
-[Link](https://morsecode.world/international/trainer/words.html)
+(https://morsecode.world/international/trainer/words.html
