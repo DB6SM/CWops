@@ -7,10 +7,10 @@ Um die Unterlagen herunterzuladen > oben links auf Code klicken, dann als "Downl
 ## Links
 
 Die aktuelle derzeite deutshe Übersetzung ist hier zu finden  
-(https://cwops.org/wp-content/uploads/2023/08/Practice-Instructions-and-Homework-Assignments-Beginner-CW-Rev-4.0.1-de.pdf)
+https://cwops.org/wp-content/uploads/2023/08/Practice-Instructions-and-Homework-Assignments-Beginner-CW-Rev-4.0.1-de.pdf
 
 Englische Version  
-(https://cwops.org/wp-content/uploads/2023/08/Practice-Instructions-and-Homework-Assignments-Beginner-CW-Rev-4.1.pdf)
+https://cwops.org/wp-content/uploads/2023/08/Practice-Instructions-and-Homework-Assignments-Beginner-CW-Rev-4.1.pdf
 
 Alle Dokumente  
 https://cwops.org/cw-academy/cw-academy-student-resources/
