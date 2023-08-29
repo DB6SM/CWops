@@ -12,14 +12,14 @@ Die aktuelle derzeite deutshe Übersetzung ist hier zu finden
 Englische Version
 (https://cwops.org/wp-content/uploads/2023/08/Practice-Instructions-and-Homework-Assignments-Beginner-CW-Rev-4.1.pdf)
 
-Alle Dokumente
+Alle Dokumente  
 [Link](https://cwops.org/cw-academy/cw-academy-student-resources/)
 
-Morse Code Trainer
+Morse Code Trainer  
 [Link](https://morsecode.world/international/trainer/trainer.html)
 
-ICR Trainer (die Einstellungen sind im Ordner ICR zu finden)
+ICR Trainer (die Einstellungen sind im Ordner ICR zu finden)  
 [Link](https://morsecode.world/international/trainer/character.html)
 
-Word List Trainer
+Word List Trainer  
 [Link](https://morsecode.world/international/trainer/words.html)
