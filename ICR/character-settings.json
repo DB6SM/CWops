@@ -33,10 +33,30 @@
     "randomCharacters": {
         "_": "Selected practice characters (shared across pages)",
         "characters": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "?",
             "A",
+            "C",
+            "D",
             "E",
+            "F",
+            "H",
+            "I",
+            "L",
+            "M",
             "N",
-            "T"
+            "O",
+            "R",
+            "S",
+            "T",
+            "U",
+            "W",
+            "Y"
         ]
     },
     "sequencePlayer": {
