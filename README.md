@@ -19,7 +19,7 @@ Morse Code Trainer
 https://morsecode.world/international/trainer/trainer.html
 
 ICR Trainer (die Einstellungen sind im Ordner ICR zu finden)  
-(https://morsecode.world/international/trainer/character.html
+https://morsecode.world/international/trainer/character.html
 
 Word List Trainer  
-(https://morsecode.world/international/trainer/words.html
+https://morsecode.world/international/trainer/words.html
