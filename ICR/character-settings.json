@@ -1,0 +1,64 @@
+{
+    "ICR": {
+        "_": "Instant character recognition page settings",
+        "letterOrder": "cwacademy",
+        "maximumCharacters": 4,
+        "maximumWords": 3,
+        "messageType": "letters",
+        "messageVisibility": false,
+        "minimumCharacters": 1,
+        "minimumWords": 1
+    },
+    "bell": {
+        "_": "Bell settings (shared across pages)",
+        "name": "bell3",
+        "pause": 0,
+        "volume": 80
+    },
+    "morseControls": {
+        "_": "Morse playback settings (shared across pages). For the advanced speed mode, the dit length is defined (in milliseconds) and other durations are set by ratios to the dit length.",
+        "advancedSpeedMode": false,
+        "downloadEndPadding": 1000,
+        "farnsworth": 5,
+        "key": "computer",
+        "light": false,
+        "pitch": 600,
+        "playMode": "sine",
+        "sound": true,
+        "startPadding": 2,
+        "vibrate": false,
+        "volume": 85,
+        "wpm": 25
+    },
+    "randomCharacters": {
+        "_": "Selected practice characters (shared across pages)",
+        "characters": [
+            "A",
+            "E",
+            "N",
+            "T"
+        ]
+    },
+    "sequencePlayer": {
+        "_": "Playback control settings defining the sequence to play (shared across pages)",
+        "bell": true,
+        "detailedView": false,
+        "extraGap": 0,
+        "flashcardAfter": false,
+        "flashcardBefore": false,
+        "flashcardTime": 1000,
+        "loop": 1,
+        "loopCount": 1,
+        "morseRepeat": true,
+        "recognitionTime": 0,
+        "speechAfter": true,
+        "speechBefore": false
+    },
+    "speech": {
+        "_": "Speech synthesis settings (shared across pages)",
+        "pitch": 0,
+        "rate": 10,
+        "selection": 3,
+        "volume": 80
+    }
+}
