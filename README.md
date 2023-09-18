@@ -24,7 +24,10 @@ https://morsecode.world/international/trainer/character.html
 Word List Trainer  
 https://morsecode.world/international/trainer/words.html
 
-### Weitere Links zum Üben
+### Weitere Links
+
+CW-Paddle aus dem 3D-Drucker  
+https://www.instructables.com/3D-Printed-Twin-Paddle-Cw-Key/
 
 Morsle  
 https://morsle.fun
