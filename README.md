@@ -34,5 +34,5 @@ https://www.qsl.net/dk5ke/wort.html
 
 ## Andere Ressourcen
 
-Morse Code Ninja (Youtube-Playlist)
+Morse Code Ninja (Youtube-Playlist) Buchstaben hören in der gleichen Reihnfolge wie im Kurs  
 https://morsecode.ninja/learn/index.html#MorseCodeCourse
