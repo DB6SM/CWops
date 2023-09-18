@@ -31,3 +31,6 @@ https://www.instructables.com/3D-Printed-Twin-Paddle-Cw-Key/
 
 Morsle  
 https://morsle.fun
+
+Merkhilfen  
+https://www.qsl.net/dk5ke/wort.html
