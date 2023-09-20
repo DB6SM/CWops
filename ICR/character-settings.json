@@ -2,17 +2,17 @@
     "ICR": {
         "_": "Instant character recognition page settings",
         "letterOrder": "cwacademy",
-        "maximumCharacters": 4,
+        "maximumCharacters": 5,
         "maximumWords": 3,
-        "messageType": "letters",
-        "messageVisibility": false,
-        "minimumCharacters": 1,
+        "messageType": "words",
+        "messageVisibility": true,
+        "minimumCharacters": 3,
         "minimumWords": 1
     },
     "bell": {
         "_": "Bell settings (shared across pages)",
-        "name": "bell3",
-        "pause": 0,
+        "name": "bell1",
+        "pause": 1000,
         "volume": 80
     },
     "morseControls": {
@@ -33,32 +33,49 @@
     "randomCharacters": {
         "_": "Selected practice characters (shared across pages)",
         "characters": [
+            "1",
+            "2",
+            "4",
+            "5",
             "A",
+            "C",
+            "D",
             "E",
+            "H",
+            "I",
+            "L",
             "N",
-            "T"
+            "O",
+            "R",
+            "S",
+            "T",
+            "U"
         ]
     },
     "sequencePlayer": {
         "_": "Playback control settings defining the sequence to play (shared across pages)",
         "bell": true,
+        "buildUp": false,
         "detailedView": false,
         "extraGap": 0,
         "flashcardAfter": false,
         "flashcardBefore": false,
         "flashcardTime": 1000,
+        "fwpmSpeedBoost": false,
         "loop": 1,
         "loopCount": 1,
-        "morseRepeat": true,
+        "morseRepeat": false,
         "recognitionTime": 0,
-        "speechAfter": true,
-        "speechBefore": false
+        "speechAfter": false,
+        "speechBefore": false,
+        "speedRacer": false,
+        "wpmSpeedBoost": true
     },
     "speech": {
         "_": "Speech synthesis settings (shared across pages)",
         "pitch": 0,
-        "rate": 10,
-        "selection": 3,
+        "rate": 20,
+        "selection": 0,
         "volume": 80
     }
 }
