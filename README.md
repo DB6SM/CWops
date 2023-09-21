@@ -36,3 +36,6 @@ https://www.qsl.net/dk5ke/wort.html
 
 Morse Code Ninja (Youtube-Playlist) Buchstaben hören in der gleichen Reihnfolge wie im Kurs  
 https://morsecode.ninja/learn/index.html#MorseCodeCourse
+
+QSOs simulieren (hören) mit QRN, QRM, QSB, mehreren Stationen  
+https://mgiugliano.github.io/MorseRunnerJS/www/
