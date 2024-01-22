@@ -24,7 +24,7 @@ https://morsecode.world/international/trainer/character.html
 Word List Trainer  
 https://morsecode.world/international/trainer/words.html
 
-Code-Gruppen Generator
+Code-Gruppen Generator  
 https://df1ee.github.io/CWops/generator.html
 
 ## Weitere Links
